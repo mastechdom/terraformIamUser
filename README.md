@@ -44,10 +44,3 @@ ssh -i <private key path> user_name@public_ip
 ## Clean up
 
 To delete the iam user that Terraform created, run `terraform destroy`.
-
-
-![image](https://github.com/madgicaltechdom/nowigence/assets/101810595/56de79cc-5c67-45d8-8244-5e442ffa7a22)
-
-![image](https://github.com/madgicaltechdom/nowigence/assets/101810595/edf6478e-df80-408b-a88a-e7f3b441ce28)
-
-# How to install and set up the Nifi registry
