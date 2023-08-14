@@ -1,6 +1,6 @@
 # Terraform script to create an IAM user with the limited access like EC2 full access and S3 read only access.
 
-This repository contains the necessary files and instructions for deploying an EC2 machine using Terraform Script.
+This repository contains the necessary files and instructions for creating an IAM User using Terraform Script.
 
 ## Prerequisite:
 
